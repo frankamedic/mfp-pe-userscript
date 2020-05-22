@@ -12,3 +12,6 @@ Modified from mfp-keto-userscript to calculate a PE Ratio rather than Net Carbs
 
 <h1>Upgrade:</h1>
 <li>Just visit <a href="https://github.com/frankamedic/mfp-pe-userscript/raw/master/mfppe.user.js">mfppe.user.js</a> and click Upgrade.</li>
+
+<h2>Goal</h2>
+You can change your goal by setting var pe_ratio = 0.7 to the number of your choice.

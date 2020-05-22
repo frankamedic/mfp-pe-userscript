@@ -2,15 +2,14 @@
 // @name            MyFitnessPal PE Ratio
 // @version         1.17.1
 // @namespace       frankamedic
-// @description     Adds display of Carb/Protein/Fat percentages to any daily food diary page. Also adds "Real Calories" calcalation based off 4/4/9 algorithm. Based on "MyFitnessPal Percentages and PE Ratio"
-// @downloadURL     https://github.com/frankamedic/mfp-pe-userscript/mfppe.user.js
+// @description     Adds display of P:E Ratio to daily food diary pages.
+// @downloadURL     https://github.com/frankamedic/mfp-pe-userscript/raw/master/mfppe.user.js
 // @include         http*://www.myfitnesspal.com/food/diary*
 // ==/UserScript==
 
 /*
  *  ------------------------------------------------------------
- *  Much credit to Bompus, author of the original script!
- *  Thanks to kt123 and Wickity for the fixes.
+ *  Much credit to Bompus, kt123, and Wickity for the original MFP Keto userscript.
  *  ------------------------------------------------------------
  */
 

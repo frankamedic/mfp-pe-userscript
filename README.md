@@ -8,7 +8,7 @@ Modified from mfp-keto-userscript to calculate a PE Ratio rather than Net Carbs
 <li><b>Safari</b>: Install <a href="https://tampermonkey.net/?ext=dhdg&browser=safari">Tampermonkey</a>.</li>
 <li><b>Firefox</b>: Install <a href="https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/">Tampermonkey</a></li>
 <li><b>Internet Explorer</b>: why?</li>
-<li><b>ALL: After installing the plugin, go to <a href="https://github.com/frankamedic/mfp-pe-userscript/raw/master/mfppe.user.js">mfpketo.user.js</a> and click install.
+<li><b>ALL: After installing the plugin, go to <a href="https://github.com/frankamedic/mfp-pe-userscript/raw/master/mfppe.user.js">mfppe.user.js</a> and click install.
 
 <h1>Upgrade:</h1>
-<li>Just visit <a href="https://github.com/frankamedic/mfp-pe-userscript/raw/master/mfppe.user.js">mfpketo.user.js</a> and click Upgrade.</li>
+<li>Just visit <a href="https://github.com/frankamedic/mfp-pe-userscript/raw/master/mfppe.user.js">mfppe.user.js</a> and click Upgrade.</li>

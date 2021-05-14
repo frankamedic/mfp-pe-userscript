@@ -3,7 +3,7 @@ Modified from mfp-keto-userscript to calculate a PE Ratio rather than Net Carbs
 <h2>Remember this script <b>REQUIRES</b> the following columns to be on in your MyFitnessPal: Fat, Protein, Carbs, Fiber!</h2>
 
 <h1>Install:</h1>
-<h3>First you'll need to install the Tampermonkey Browser Extension. Depending on your browser, click the appropriate link below:</h3>
+<h3>First you'll need to install the Tampermonkey Browser Extension. Depending on your browser, click the appropriate link below and follow the steps to add the extension:</h3>
 
 <ul>
 <li><b>Chrome/Brave</b>: Install <a href="https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo">Tampermonkey</a>.</li>
